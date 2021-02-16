@@ -1,3 +1,3 @@
 # smartocelli
 
-CCTV human action behavior to guard the house
+CCTV human action behavior to guard the building
